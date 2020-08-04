@@ -3,5 +3,6 @@ def prime?(num)
     return false
     elsif
     (2..num % - 1)
+    return false
 end
 end
